@@ -49,6 +49,7 @@ public class RestClientService
 }
 
 /*
+Please refer application.properties where we define the URL
  ----------------------------------------- processTicketBooking ----------------------------------------------------------------
  This Java code defines a RestClientService class that provides a method to book a ticket using an external API. Here's a breakdown of the code:
 
